@@ -25,5 +25,5 @@ Bonus!
 - Once the website from the `link_url` is *fully loaded* on the web view controller, grey out or lower the alpha the collection view cell that was tapped on so it's clear that link has already been visited. (it's okay if this only persists until the next time the app is loaded)
 
 
-When you're complete, submit a pull request back to the public repo with your work.  
+When you're complete, submit a pull request back to the public repo with your work and mention @imackinn on the request. If anything is unclear or you need help, please message ian@later.com.
 
