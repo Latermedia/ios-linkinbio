@@ -10,9 +10,9 @@ We've given a skeleton of the app you'd like to make in Swift. It already has th
 
 The exercise is to make the app look as follows:
 
-![Main View Controller] (https://github.com/Latermedia/ios-linkinbio/blob/master/Explore%20View.png)
-
-![Web View Controller] (https://github.com/Latermedia/ios-linkinbio/blob/master/In%20app%20web%20view.png)
+Main View Controller            |  Web View Controller
+:-------------------------:|:-------------------------:
+![Main View Controller] (https://github.com/Latermedia/ios-linkinbio/blob/master/Explore%20View.png  | width=200)  |  ![Web View Controller] (https://github.com/Latermedia/ios-linkinbio/blob/master/In%20app%20web%20view.png  | width=200)
 
 Do this by forking the repo and making a branch implementing the following features:
 
