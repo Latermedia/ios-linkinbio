@@ -12,7 +12,7 @@ The exercise is to make the app look as follows:
 
 Main View Controller            |  Web View Controller
 :-------------------------:|:-------------------------:
-![Main View Controller] (https://github.com/Latermedia/ios-linkinbio/blob/master/Explore%20View.png)  |  ![Web View Controller] (https://github.com/Latermedia/ios-linkinbio/blob/master/In%20app%20web%20view.png)
+![Main View Controller](https://github.com/Latermedia/ios-linkinbio/blob/master/Explore%20View.png)  |  ![Web View Controller](https://github.com/Latermedia/ios-linkinbio/blob/master/In%20app%20web%20view.png)
 
 Do this by forking the repo and making a branch implementing the following features:
 
