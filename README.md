@@ -6,7 +6,7 @@ The data source for this data comes from the Later.com servers, and is rendered 
 
 As an exercise for iOS, we'd like you to make an iPhone app that would process these links from our server and display them in a simple iphone app. 
 
-You can find the Linkin.bio posts for a profile by calling 'https://api-prod.linkin.bio/api/pub/linkinbio_posts?instagram_profile_id=<id>', and you can find the profile id for an Instagram account by calling 'https://api-prod.linkin.bio/api/pub/instagram_profiles?social_profile=<account username>'. 
+You can find the Linkin.bio posts for a profile by calling `https://api-prod.linkin.bio/api/pub/linkinbio_posts?instagram_profile_id=<id>`, and you can find the profile id for an Instagram account by calling `https://api-prod.linkin.bio/api/pub/instagram_profiles?social_profile=<account username>`. 
 
 The exercise is to make the app look as follows:
 
