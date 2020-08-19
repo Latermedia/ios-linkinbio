@@ -16,7 +16,7 @@ Main View Controller            |  Web View Controller
 
 Do this by forking the repo and making a branch implementing the following features:
 
-- For each post in the API response from the `viewDidLoad`, display the `thumb_url` in a colleciton view cell
+- For each post in the API response from the `viewDidLoad`, display the `thumb_url` in a collection view cell
 - Underneath the thumburl, have a label showing only the domain for the `link_url`
 - If a user taps on the collection item, open the web view controller with the `link_url` corresponding to the post
 
