@@ -6,7 +6,7 @@ The data source for this data comes from the Later.com servers, and is rendered 
 
 As an exercise for iOS, we'd like you to make an iPhone app that would process these links from our server and display them in a simple iphone app. 
 
-We've given a skeleton of the app you'd like to make in Swift. It already has the url for the API call to our servers, and it should only need to make that one call (we'll ignore pagination for now). 
+You can find the Linkin.bio posts for a profile by calling https://api-prod.linkin.bio/api/pub/linkinbio_posts?instagram_profile_id=<id>, and you can find the profile id for an Instagram account by calling https://api-prod.linkin.bio/api/pub/instagram_profiles?social_profile=<account username>. 
 
 The exercise is to make the app look as follows:
 
@@ -25,5 +25,5 @@ Bonus!
 - Once the website from the `link_url` is *fully loaded* on the web view controller, grey out or lower the alpha the collection view cell that was tapped on so it's clear that link has already been visited. (it's okay if this only persists until the next time the app is loaded)
 
 
-When you're complete, submit a pull request back to the public repo with your work and mention @imackinn on the request. If anything is unclear or you need help, please message ian@later.com.
+When you're complete, submit a pull request back to the public repo with your work and mention @smasuch on the request. If anything is unclear or you need help, please message steven.masuch@later.com.
 
